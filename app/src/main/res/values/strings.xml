@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hotel NFC</string>
+    <string name="nfc_write_ndef">Write NFC NDEF Tag</string>
+    <string name="nfc_read_tag">Read NFC Tag</string>
+    <string name="write_tag">Scanner la clé jusqu\'à l\'écriture de la chambre </string>
+    <string name="read_tag">Scanner la clé jusqu\'à la lecture de la chambre </string>
+</resources>
